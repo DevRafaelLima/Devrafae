@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Devrafae
 - 👀 Estou interessado em ganhar experiência no mercado de desenvolvimento
-- 🌱 Atualmente estou aprendendo sql, Programação orienteda a objeto, HTML, CSS, JavaScript, PHP, Wordpress e GitHub.
+- 🌱 Atualmente estou aprendendo sql, Programação orienteda a objeto, HTML, CSS, JavaScript, PHP, ReactJs, Java, Wordpress e GitHub.
 - 💞️ Estou procurando colaborar-me no mercado
 - 📫 tenho meu LinkedIn (https://www.linkedin.com/in/rafael-santos-desenvolvedor-web)e meu e-mail (rafael.discente@gmail.com) que acesso diariamente.
 
